@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner-github.png" alt="Frederico Labs Banner" width="100%">
+</p>
+
+
 #  Olá, eu sou o Edward! 👋
 ### 🧠 Entusiasta de Sistemas Embarcados, Automação e IA Aplicada ao Hardware
 
