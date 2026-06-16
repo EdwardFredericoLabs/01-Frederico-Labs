@@ -1,4 +1,4 @@
-# 01-Frederico-Labs# Olá, eu sou o Edward! 👋
+#  Olá, eu sou o Edward! 👋
 ### 🧠 Entusiasta de Sistemas Embarcados, Automação e IA Aplicada ao Hardware
 
 Meu GitHub é o reflexo da minha bancada: um laboratório vivo onde protótipos saem do papel, microcontroladores ganham voz e Inteligências Artificiais deixam de ser apenas teoria para se tornarem parte ativa de soluções reais do mundo físico.
